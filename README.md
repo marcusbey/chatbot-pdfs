@@ -5,7 +5,7 @@ To install the ChatWithMyPdfs  App, please follow these steps:
 
 - Clone the repository to your local machine.
 
-- Install your vistual Environnement and activate it
+- Install your virtual Environnement and activate it
 
 - Install the required dependencies by running the following command:
 
